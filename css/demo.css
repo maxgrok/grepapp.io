@@ -1,3 +1,7 @@
+.nav-item:hover{
+    font-weight: bold;   
+}
+
 .tim-row{
     margin-bottom: 20px;
 }
